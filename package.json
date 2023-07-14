@@ -44,7 +44,7 @@
     "@angular/language-service": "~7.0.0",
     "@types/jasmine": "~2.8.8",
     "@types/jasminewd2": "~2.0.3",
-    "browser-sync": "2.26.7",
+    "browser-sync": "2.29.3",
     "codelyzer": "~4.5.0",
     "del": "5.1.0",
     "gulp": "4.0.2",
